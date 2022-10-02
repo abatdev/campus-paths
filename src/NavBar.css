@@ -1,0 +1,20 @@
+.dropdown-menu {
+  height: 500px;
+  overflow-y: scroll;
+  font-size: 10px;
+
+}
+
+.dropdown-toggle {
+    background: #E6DC6B;
+}
+
+.btn {
+    background: #E6DC6B;
+    color: #5A4766;
+}
+
+
+.centered {
+    text-align: center;
+}

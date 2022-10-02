@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import MapView from './MapView';
 import NavBar from './NavBar'
 import './App.css'
-
+ 
 interface AppState {
     startBuilding: string; // the start building to find shortest path for
     endBuilding: string; // the end building to find shortest path for

@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Dropdown from "react-bootstrap/Dropdown";
 import Button from 'react-bootstrap/Button'
-import './NavBar.css'
+import './NavBar.css' 
 
 interface NavBarState {
     requestResult: string; // The result of the request to the building names

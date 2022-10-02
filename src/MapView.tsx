@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, {Component} from 'react'; 
 import "./MapView.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
